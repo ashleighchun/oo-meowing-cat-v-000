@@ -12,4 +12,4 @@ maru.name = "Maru"
 maru.name
 
 
-maru.meow
+Cat puts "meow!"
