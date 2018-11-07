@@ -20,4 +20,5 @@ maru.name
 
 
 
+maru.meow = "meow!"
 maru.meow
