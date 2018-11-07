@@ -11,7 +11,13 @@ maru.name = "Maru"
 maru.name
 
 def meow
-
+name=(name)
+    @name = name
+  end
+ 
+  def name
+    @name
+  end
 end
 
 maru = Cat.new
