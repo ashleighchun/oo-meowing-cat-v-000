@@ -12,4 +12,3 @@ maru.name = "Maru"
 maru.name
 
 
-cat.insta
