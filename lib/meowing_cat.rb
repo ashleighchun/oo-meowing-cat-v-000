@@ -12,11 +12,11 @@ maru.name
 
 def meow
 meow=(meow)
-    @name = name
+    @meow = meow
   end
  
-  def name
-    @name
+  def meow
+    @meow
   end
 end
 
