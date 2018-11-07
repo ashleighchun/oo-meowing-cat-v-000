@@ -11,7 +11,7 @@ maru.name = "Maru"
 maru.name
 
 def meow
-name=(name)
+meow=(meow)
     @name = name
   end
  
