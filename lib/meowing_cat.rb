@@ -12,4 +12,4 @@ maru.name = "Maru"
 maru.name
 
 
-maru.instance_variable_set(:@name, "meow!")
+cat.insta
