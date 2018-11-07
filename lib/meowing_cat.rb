@@ -13,9 +13,9 @@ maru.name = "Maru"
 maru.name
 
 class Cat
-  attr_accessor :noise 
+  attr_accessor :meow 
 end
 
 maru = Cat.new
-maru.noise = "meow!"
+maru.meow = "meow!"
 maru.meow
