@@ -3,8 +3,6 @@
 
 class Cat
   attr_accessor :name
-  attr_accessor :meow
-  
 end
        
 
@@ -12,9 +10,9 @@ maru = Cat.new
 maru.name = "Maru"
 maru.name
 
-#class Cat
-#  attr_accessor :meow 
-#end
+def meow
+
+end
 
 maru = Cat.new
 maru.meow = "meow!"
