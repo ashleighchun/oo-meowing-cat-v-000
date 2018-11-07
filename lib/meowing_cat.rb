@@ -20,6 +20,4 @@ maru.name
 
 
 
-maru = Cat.new
-maru.meow = "meow!"
 maru.meow
