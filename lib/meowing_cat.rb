@@ -16,6 +16,6 @@ class Cat
   attr_accessor :noise 
 end
 
-maru = cat.new
+maru = Cat.new
 maru.noise = "meow!"
 maru.meow
